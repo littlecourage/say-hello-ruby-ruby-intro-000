@@ -1,5 +1,8 @@
 # Build your say_hello method here
-def say_hello(name="Ruby Programmer")
-  puts "Hello #{name}!"
-end
+three = 2 + 1
+name = "Bob"
+
+puts "1 plus 1 is #{1+1} and 1 plus 2 is #{three} and 2 times 2 is #{2*2}. Oh, hey #{name}!"
+
+
 
